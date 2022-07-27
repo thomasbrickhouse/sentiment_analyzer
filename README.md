@@ -12,4 +12,8 @@ by computing the average rating of all reviews containing that word.
 ## Demo
 ![Screen Shot 2022-07-27 at 2 29 15 PM](https://user-images.githubusercontent.com/106278027/181347404-181bf6e6-3306-4f89-b1b1-cc73ee2c7609.png)
 
+## Authors
+
+* **Thomas Brickhouse** - *All work* - [thomas-brickhouse](https://github.com/thomasbrickhouse)
+
 <sub>This project is an extension of a coding project completed at JMU.<sub>
